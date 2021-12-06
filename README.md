@@ -1,10 +1,10 @@
-hi I'm uku a java developer <!-- \
+### hi I'm uku a java developer 
+<!-- \
 [website](https://uku3lig.github.io) -->
 <!---
 uku3lig/uku3lig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<hr />
-
-![Metrics](https://github.com/uku3lig/uku3lig/blob/main/github-metrics.svg)
+![uku's GitHub stats](https://github-readme-stats.vercel.app/api?username=uku3lig&count_private=true&show_icons=true&theme=gruvbox)
+[![uku's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uku&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
