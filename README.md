@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://wakatime.com/badge/user/8c040ab4-dd86-485b-ac52-d0ca1971b711.svg?style=for-the-badge&logo=appveyor" alt="wakatime" />
   </a>
   <a href="https://modrinth.com/user/HiuxcjYJ">
-    <img alt="Modrinth Downloads" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.uku3lig.net%2Fdownloads%2Fuku3lig%2Fshields">
+    <img alt="Modrinth Downloads" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.uku3lig.net%2Fdownloads%2Fuku%2Fshields">
   </a>
   <br>
   <a href="https://github.com/jstrieb/github-stats">
