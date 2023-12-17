@@ -24,5 +24,9 @@ check out my pinned repos if you want to see my best repos, otherwise head to th
 * [uku3lig@proton.me](mailto:uku3lig@proton.me) or [uku3lig@gmail.com](mailto:uku3lig@gmail.com) via email
 
 ## shiny numbers & stats
-[![account-stats](https://raw.githubusercontent.com/uku3lig/stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
-[![language-stats](https://raw.githubusercontent.com/uku3lig/stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=uku3lig&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uku3lig&layout=compact&langs_count=8&theme=transparent" />
+</a>
+
