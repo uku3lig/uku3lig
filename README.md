@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 welcome to my profile! i don't really know why you're lurking here, but i hope you'll find what you like.
 
-i'm uku, a 17 year old engineering student who loves to mod games (especially Minecraft) and tinker around in my free time.
+i'm uku, a 18 year old engineering student who loves to mod games (especially Minecraft) and tinker around in my free time.
 
 check out my pinned repos if you want to see my best repos, otherwise head to the repositories tab if you want to see the less-cool stuff!
 
