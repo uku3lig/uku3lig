@@ -21,7 +21,7 @@ check out my pinned repos if you want to see my best repos, otherwise head to th
 ## contact me
 
 * [@uku](https://discord.com/users/319463560356823050) on discord
-* [uku3lig@proton.me](mailto:uku3lig@proton.me) or [uku3lig@gmail.com](mailto:uku3lig@gmail.com) via email
+* [hi@uku.moe](mailto:hi@uku.moe) via email
 
 ## shiny numbers & stats
 
