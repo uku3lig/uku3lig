@@ -20,7 +20,7 @@ check out my pinned repos if you want to see my best repos, otherwise head to th
 
 ## contact me
 
-* [@uku](https://discord.com/users/319463560356823050) on discord
+* [@uku:m.uku.moe](https://matrix.to/#/@uku:m.uku.moe) on matrix
 * [hi@uku.moe](mailto:hi@uku.moe) via email
 
 ## shiny numbers & stats
