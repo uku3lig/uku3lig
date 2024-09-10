@@ -11,11 +11,7 @@ i'm uku, a 18 year old student (currenltly doing an apprenticeship) who loves to
 
 check out my pinned repos if you want to see my best repos, otherwise head to the repositories tab if you want to see the less-cool stuff!
 
-## contact me
-
-* [@uku:m.uku.moe](https://matrix.to/#/@uku:m.uku.moe) on matrix
-* [hi@uku.moe](mailto:hi@uku.moe) via email
-* via my [discord server](https://uku.moe/dc)
+## contact me: [see my website](https://uku3lig.net)
 
 ## stuff i use
 
