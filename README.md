@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 hello!
 
-i'm uku, a 18 year old student (currenltly doing an apprenticeship) who loves to mod games (especially Minecraft) and tinker around in my free time.
+i'm uku, a 19 year old student (currenltly doing an apprenticeship) who loves to mod games (especially Minecraft) and tinker around in my free time.
 
 check out my pinned repos if you want to see my best repos, otherwise head to the repositories tab if you want to see the less-cool stuff!
 
