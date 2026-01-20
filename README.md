@@ -2,7 +2,7 @@ hello!
 
 i'm uku, a 20 year old student (currently doing an apprenticeship) who loves to mod games (especially Minecraft) and tinker around in my free time.
 
-check out my pinned repos if you want to see my best repos, otherwise head to the repositories tab if you want to see the less-cool stuff!
+while most of my work is still on github at the time of writing, more recent projects are available on my forgejo instead: https://git.uku3lig.net/uku
 
 <h2 align="center">contact me @ <a href="https://uku3lig.net">uku3lig.net</a></h2>
 
